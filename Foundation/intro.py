@@ -75,4 +75,4 @@ print("Value of a + b: ", a + b)
 x = int(input(("Enter value of x")))
 y = int(input(("Enter value of y")))
 avg = x + y / 2
-print("The average of two numbers: ", avg)
+print("The average of two numbers: ",avg)
